@@ -37,8 +37,8 @@ Here are some ideas to get you started:
 
 ## 🏆 Achievements  
 - **Pupil** on Codeforces, **3-star coder** on CodeChef and Solved **300+ problems** on LeetCode.  
-- Delivered a workshop on **Competitive Programming** as the Secretary of Co.L.D.,Coding & Infosec Club.
-- Led many post-contest discussions as the Secretary of Co.L.D. 
+- Delivered workshop on **Competitive Programming** as the Secretary of Co.L.D.,Coding & Infosec Club.
+- Many more......In Progress.......
 
 ---
 
