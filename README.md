@@ -45,7 +45,7 @@ Here are some ideas to get you started:
 ## 🔭 Projects  
 ### **Progressive Transfer Learning for Railway Track Fault Detection**  
 - Adapted the paper *Progressive Transfer Learning for Face Anti-Spoofing*.  
-- Developed a ResNet50-based CNN model to identify faults in railway tracks.
+- Developed a ResNet50-based Semi-Supervised CNN model to identify faults in railway tracks.
 - [Progressive Transfer Learning for Railway Track Fault Detection](https://github.com/baranwalayush/Progressive-Transfer-Learning-for-Railway-Track-Fault-Detection)
 
 ### **Energy Efficient Web Browsing Mode** *(In Progress)*  
