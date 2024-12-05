@@ -41,7 +41,7 @@ Here are some ideas to get you started:
 - Many more......In Progress.......
 
 ---
-
+<!--
 ## 🔭 Projects  
 ### **Progressive Transfer Learning for Railway Track Fault Detection**  
 - Adapted the paper *Progressive Transfer Learning for Face Anti-Spoofing*.  
@@ -59,6 +59,7 @@ Here are some ideas to get you started:
 - [Creative Canvas](https://baranwalayush.github.io/Creative-Canvas/index.html)
 
 ---
+-->
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ayush-kumar-baranwal/)  
