@@ -63,7 +63,7 @@ Here are some ideas to get you started:
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ayush-kumar-baranwal/)  
-Email : ayush6262kr@gmail.com
+Email : baranwal96080ayush@gmail.com
 
 ---
 <!--
