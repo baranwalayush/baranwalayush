@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm baranwalayush!  
 
-🎯 **Aspiring Machine Learning Engineer** | 🏆 **Competitive Programmer** | 🔍 **Problem Solver**
+**Aspiring Machine Learning Engineer** | **Competitive Programmer** | **Problem Solver**
 
 🌱 **About Me**  
 - Passionate about leveraging AI and data analytics to solve real-world challenges.  
@@ -29,15 +29,15 @@ Here are some ideas to get you started:
 ---
 
 ## 🚀 Skills  
-- **Programming Languages:** Python, C, C++, SQL, JavaScript  
+- **Programming Languages:** C, C++, Python, Java, SQL, JavaScript  
 - **Frameworks & Tools:** TensorFlow, Flask, Pandas, NumPy, Scikit-Learn
 - **Specializations:** Data Analytics, Machine Learning, Deep Learning, Time Series Analysis, Image Processing  
 
 ---
 
 ## 🏆 Achievements  
-- **Pupil** on Codeforces, **3-star coder** on CodeChef and Solved **300+ problems** on LeetCode.  
-- Delivered workshop on **Competitive Programming** as the Secretary of Co.L.D.,Coding & Infosec Club.
+- **Pupil** on Codeforces, **3-star coder** on CodeChef and Solved **300+ problems** on LeetCode.
+-  Led numerous post-contest discussions, techincal competitions and workshops as the Secretary of Co.L.D.,Coding & Infosec Club.
 - Many more......In Progress.......
 
 ---
