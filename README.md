@@ -28,6 +28,7 @@ Here are some ideas to get you started:
 
 ---
 
+<!--
 ## 🚀 Skills  
 - **Programming Languages:** C, C++, Python, Java, SQL, JavaScript  
 - **Frameworks & Tools:** TensorFlow, Flask, Pandas, NumPy, Scikit-Learn
@@ -41,24 +42,6 @@ Here are some ideas to get you started:
 - Many more......In Progress.......
 
 ---
-<!--
-## 🔭 Projects  
-### **Progressive Transfer Learning for Railway Track Fault Detection**  
-- Adapted the paper *Progressive Transfer Learning for Face Anti-Spoofing*.  
-- Developed a ResNet50-based Semi-Supervised CNN model to identify faults in railway tracks.
-- [Progressive Transfer Learning for Railway Track Fault Detection](https://github.com/baranwalayush/Progressive-Transfer-Learning-for-Railway-Track-Fault-Detection)
-
-### **Energy Efficient Web Browsing Mode** *(In Progress)*  
-- Chrome extension to optimize web browsing energy usage.  
-- Combines sustainability and technology with user-friendly design.
--  [Energy Efficient Web Browsing Mode](https://github.com/baranwalayush/Energy-Efficient-Web-Browsing-Mode)
-
-### **Creative Canvas**
-- Built a Painting website using HTML, CSS and JavaScript only.
-- Contains multiple in-built features to assist the user in his/her drawings.
-- [Creative Canvas](https://baranwalayush.github.io/Creative-Canvas/index.html)
-
----
 -->
 
 ## 🌐 Connect with Me  
@@ -66,9 +49,4 @@ Here are some ideas to get you started:
 Email : baranwal96080ayush@gmail.com
 
 ---
-<!--
-## 📊 GitHub Stats  
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=baranwalayush&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=baranwalayush&layout=compact&theme=radical)  
--->
 
