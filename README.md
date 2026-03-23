@@ -18,14 +18,13 @@ Here are some ideas to get you started:
 
 # 👋 Hi, I'm baranwalayush!  
 
-**Aspiring Machine Learning Engineer** | **Competitive Programmer** | **Problem Solver**
+**Mathematics** | **Algorithms** | **Machine Learning**
 
 🌱 **About Me**  
-- Passionate about leveraging AI and data analytics to solve real-world challenges.  
-- Experience in **machine learning** and **algorithm development**.
-- Open Source Enthusiast
+- Interested in the intersection of mathematics, algorithms, and machine learning theory
+- Actively exploring numerical methods and efficient computation
+- Committed to open-source collaboration and knowledge sharing
 - Currently working on [Energy Efficient Web Browsing Mode](https://github.com/baranwalayush/Energy-Efficient-Web-Browsing-Mode) & [WattWise](https://github.com/baranwalayush/WattWise).  
-
 ---
 
 <!--
