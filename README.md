@@ -20,11 +20,11 @@ Here are some ideas to get you started:
 
 **Mathematics** | **Algorithms** | **Machine Learning**
 
-🌱 **About Me**  
 - Interested in the intersection of mathematics, algorithms, and machine learning theory
-- Actively exploring numerical methods and efficient computation
+- Actively exploring numerical methods, efficient computation and similar fields
+- Always available for a chat on how classical algorithms can evolve with insights from numerical methods
 - Committed to open-source collaboration and knowledge sharing
-- Currently working on [Energy Efficient Web Browsing Mode](https://github.com/baranwalayush/Energy-Efficient-Web-Browsing-Mode) & [WattWise](https://github.com/baranwalayush/WattWise).  
+- Currently working on [Energy Efficient Web Browsing Mode](https://github.com/baranwalayush/Energy-Efficient-Web-Browsing-Mode) & [WattWise](https://github.com/baranwalayush/WattWise) (not exactly though, but will surely complete some day!)
 ---
 
 <!--
