@@ -21,27 +21,10 @@ Here are some ideas to get you started:
 **Mathematics** | **Algorithms** | **Machine Learning**
 
 - Interested in the intersection of mathematics, algorithms, and machine learning theory
-- Actively exploring numerical methods, efficient computation and similar fields
-- Always available for a chat on how classical algorithms can evolve with insights from numerical methods
-- Committed to open-source collaboration and knowledge sharing
-- Currently working on [Energy Efficient Web Browsing Mode](https://github.com/baranwalayush/Energy-Efficient-Web-Browsing-Mode) & [WattWise](https://github.com/baranwalayush/WattWise) (not exactly though, but will surely complete some day!)
+- Actively exploring numerical methods, efficient computation and related fields
+- Always available for a chat on how algorithms can evolve with insights from numerical methods and vice versa
+- Currently working on [NumLA](https://github.com/baranwalayush/NumLA) & [SBSCL](https://github.com/draeger-lab/sbscl)
 ---
-
-<!--
-## 🚀 Skills  
-- **Programming Languages:** C, C++, Python, Java, SQL, JavaScript  
-- **Frameworks & Tools:** TensorFlow, Flask, Pandas, NumPy, Scikit-Learn
-- **Specializations:** Data Analytics, Machine Learning, Deep Learning, Time Series Analysis, Image Processing  
-
----
-
-## 🏆 Achievements  
-- **Pupil** on Codeforces, **3-star coder** on CodeChef and Solved **300+ problems** on LeetCode.
--  Led numerous post-contest discussions, techincal competitions and workshops as the Secretary of Co.L.D.,Coding & Infosec Club.
-- Many more......In Progress.......
-
----
--->
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ayush-kumar-baranwal/)  
