@@ -16,19 +16,24 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 👋 Hi, I'm baranwalayush!  
+# 👋 Hi, I'm Ayush!  
 
-**Mathematics** | **Algorithms** | **Machine Learning**
+**Scientific Computing** | **Algorithms** | **Machine Learning**
 
-- Interested in the intersection of mathematics, algorithms, and machine learning theory
-- Actively exploring numerical methods, efficient computation and related fields
-- Always available for a chat on how algorithms can evolve with insights from numerical methods and vice versa
-- Currently working on [NumLA](https://github.com/baranwalayush/NumLA) & [SBSCL](https://github.com/draeger-lab/sbscl)
+- Exploring numerical methods, scientific computing, and machine learning
+- Interested in algorithms, mathematical modeling, and computational methods
+- Building and contributing to open-source scientific software
+- Currently exploring the field of NLP
+  
+## Currently working on
+- [NumLA](https://github.com/baranwalayush/NumLA) - Exploring numerical linear algebra through implementation and experimentation
+- [SBSCL](https://github.com/draeger-lab/sbscl) - Open-source Java framework for simulation of biological models and systems; **Google Summer of Code 2025 contributor**
+- [NLP-Evolution](https://github.com/baranwalayush/NLP-Evolution) - Exploring the evolution of Natural Language Processing through key ideas, models, and milestones
 ---
 
 ## 🌐 Connect with Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://linkedin.com/in/ayush-kumar-baranwal/)  
-Email : baranwal96080ayush@gmail.com
+Email : ayush6262kr@gmail.com
 
 ---
 
