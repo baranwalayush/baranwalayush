@@ -27,7 +27,7 @@ Here are some ideas to get you started:
   
 ## Currently working on
 - [NumLA](https://github.com/baranwalayush/NumLA) - Exploring numerical linear algebra through implementation and experimentation
-- [SBSCL](https://github.com/draeger-lab/sbscl) - Open-source Java framework for simulation of biological models and systems; **Google Summer of Code 2025 contributor**
+- [SBSCL](https://github.com/draeger-lab/sbscl) - Open-source Java framework for simulation of biological models; **Google Summer of Code 2025 contributor**
 - [NLP-Evolution](https://github.com/baranwalayush/NLP-Evolution) - Exploring the evolution of Natural Language Processing through key ideas, models, and milestones
 ---
 
